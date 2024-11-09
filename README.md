@@ -1,8 +1,5 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino" width="100%" />
 
-
-
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Welcome to <a href="https://github.com/amirhoseinamin">Amirhosein Amin</a>'s Profile 👋</h1></summary>
