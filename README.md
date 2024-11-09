@@ -50,8 +50,8 @@ const amirhosein = {
 ###### Frontend Development
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=282828)
 ![CSS](https://img.shields.io/badge/-CSS-3776AB?style=for-the-badge&logo=CSS3&logoColor=3776AB&labelColor=282828)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=F7DF1E&labelColor=282828)
 ![Sass](https://img.shields.io/badge/-Sass-cf649a?style=for-the-badge&logo=Sass&logoColor=cf649a&labelColor=282828)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=F7DF1E&labelColor=282828)
 ![Npm](https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=Npm&logoColor=CB3837&labelColor=282828)
 
 ###### Software & Tools
