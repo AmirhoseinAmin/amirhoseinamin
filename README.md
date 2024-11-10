@@ -74,8 +74,8 @@ const amirhosein = {
 
 ### 📊My Stats
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhoseinamin&theme=dark&bg_color=0d1117&border_color=64FFDA&custom_title=Amirhosein's%20Stats&show_icons=true&icon_color=64FFDA&border_radius=10&count_private=true" width="48%" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhoseinamin&theme=dark&bg_color=0d1117&border_color=64FFDA&custom_title=Amirhosein's%20Stats&show_icons=true&icon_color=64FFDA&border_radius=10&count_private=true" width="48%" align="left" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amirhoseinamin&theme=dark&bg_color=0d1117&title_color=64FFDA&custom_title=Languages&hide_border=false&langs_count=7" width="48%" />
 </div>
 
