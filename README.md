@@ -89,7 +89,8 @@ const amirhosein = {
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=282828)](https://t.me/Q9Q8Q7Q6)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=282828)](https://www.instagram.com/_amirhoseinamin)
-[![Discord](https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=discord&logoColor=5865f2&labelColor=282828)](https://www.instagram.com/_amirhoseinamin)
+[![Discord](https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=discord&logoColor=5865f2&labelColor=282828)]([https://www.instagram.com/_amirhoseinamin](https://discord.com/users/878745436490432552))
+[![Dev.to](https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=282828)](www.linkedin.com/in/amirhoseinaminprofile)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-6366f1?style=for-the-badge&logo=devdotto&logoColor=6366f1&labelColor=282828)](https://dev.to/amirh03ein)
 
 <br><br>
