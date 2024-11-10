@@ -70,6 +70,10 @@ const amirhosein = {
 
 ### 🚀My Projects
 
+<a href="https://github.com/AmirhoseinAmin/NFT">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirhoseinAmin&repo=NFT&theme=dark" alt="GitHub Stats" />
+</a>
+
 <br>
 
 ### 📊My Stats
