@@ -71,19 +71,19 @@ const amirhosein = {
 ### 🚀My Projects
 
 <a href="https://github.com/AmirhoseinAmin/NFT">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirhoseinAmin&repo=NFT&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirhoseinAmin&repo=NFT&theme=dark&bg_color=0d1117&border_color=64FFDA&icon_color=64FFDA&border_radius=10" alt="GitHub Stats" />
 </a>
 
-<br>
+<br><br>
 
 ### 📊My Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhoseinamin&theme=dark&bg_color=0d1117&border_color=64FFDA&custom_title=Amirhosein's%20Stats&show_icons=true&icon_color=64FFDA&border_radius=10&count_private=true" width="48%" align="left" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amirhoseinamin&theme=dark&bg_color=0d1117&title_color=64FFDA&custom_title=Languages&hide_border=false&langs_count=7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirhoseinAmin&theme=dark&bg_color=0d1117&border_color=64FFDA&custom_title=Amirhosein's%20Stats&show_icons=true&icon_color=64FFDA&border_radius=10&count_private=true" width="48%" align="left" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AmirhoseinAmin&theme=dark&bg_color=0d1117&title_color=64FFDA&custom_title=Languages&border_radius=10&hide_border=false&langs_count=7" width="48%" />
 </div>
 
-<br>
+<br><br>
 
 ### 🤝 Connect With Me
 
@@ -92,7 +92,7 @@ const amirhosein = {
 [![Discord](https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=discord&logoColor=5865f2&labelColor=282828)](https://www.instagram.com/_amirhoseinamin)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-6366f1?style=for-the-badge&logo=devdotto&logoColor=6366f1&labelColor=282828)](https://dev.to/amirh03ein)
 
-<br>
+<br><br>
 
 <div align="center">
   
@@ -102,5 +102,5 @@ const amirhosein = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amirhoseinamin&label=Profile%20Views&color=9&icon=5&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=AmirhoseinAmin&label=Profile%20Views&color=9&icon=5&pretty=false" />
 </p>
