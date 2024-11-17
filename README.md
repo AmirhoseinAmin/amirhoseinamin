@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <P align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=25&duration=4000&pause=2000&color=64FFDA&multiline=true&width=406&lines=%7C+Passionate+Frontend+Developer+%7C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=25&duration=4000&pause=2000&color=616DC5&multiline=true&width=406&lines=%7C+Passionate+Frontend+Developer+%7C" alt="Typing SVG" /></a>
 </P>
 
 <br>
@@ -71,7 +71,7 @@ const amirhosein = {
 ### 🚀My Projects
 
 <a href="https://github.com/AmirhoseinAmin/NFT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirhoseinAmin&repo=NFT&theme=dark&bg_color=0d1117&border_color=64FFDA&icon_color=64FFDA&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirhoseinAmin&repo=NFT&theme=dark&bg_color=0d1117&border_color=616DC5&icon_color=616DC5&border_radius=10" alt="GitHub Stats" />
 </a>
 
 <br><br>
@@ -79,8 +79,8 @@ const amirhosein = {
 ### 📊My Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirhoseinAmin&theme=dark&bg_color=0d1117&border_color=64FFDA&custom_title=Amirhosein's%20Stats&show_icons=true&icon_color=64FFDA&border_radius=10&count_private=true" width="48%" align="left" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AmirhoseinAmin&theme=dark&bg_color=0d1117&title_color=64FFDA&custom_title=Languages&border_radius=10&hide_border=false&langs_count=7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirhoseinAmin&theme=dark&bg_color=0d1117&border_color=616DC5&custom_title=Amirhosein's%20Stats&show_icons=true&icon_color=616DC5&border_radius=10&count_private=true" width="48%" align="left" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AmirhoseinAmin&theme=dark&bg_color=0d1117&title_color=616DC5&custom_title=Languages&border_radius=10&hide_border=false&langs_count=7" width="48%" />
 </div>
 
 <br><br>
